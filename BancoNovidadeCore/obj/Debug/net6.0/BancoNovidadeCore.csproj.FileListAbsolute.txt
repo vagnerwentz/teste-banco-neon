@@ -1,0 +1,12 @@
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/bin/Debug/net6.0/BancoNovidadeCore.deps.json
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/bin/Debug/net6.0/BancoNovidadeCore.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/bin/Debug/net6.0/BancoNovidadeCore.pdb
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.csproj.AssemblyReference.cache
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.AssemblyInfoInputs.cache
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.AssemblyInfo.cs
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.csproj.CoreCompileInputs.cache
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/refint/BancoNovidadeCore.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/BancoNovidadeCore.pdb
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeCore/obj/Debug/net6.0/ref/BancoNovidadeCore.dll

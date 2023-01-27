@@ -1,0 +1,15 @@
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.csproj.AssemblyReference.cache
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.AssemblyInfoInputs.cache
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.AssemblyInfo.cs
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.csproj.CoreCompileInputs.cache
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/bin/Debug/net6.0/BancoNovidadeInfrastructure.deps.json
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/bin/Debug/net6.0/BancoNovidadeInfrastructure.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/bin/Debug/net6.0/BancoNovidadeInfrastructure.pdb
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/bin/Debug/net6.0/BancoNovidadeCore.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/bin/Debug/net6.0/BancoNovidadeCore.pdb
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.csproj.CopyComplete
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/refint/BancoNovidadeInfrastructure.dll
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/BancoNovidadeInfrastructure.pdb
+/Users/vagnerwentz/Documents/learning/testes/BancoNovidadeInfrastructure/obj/Debug/net6.0/ref/BancoNovidadeInfrastructure.dll

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{D21AFBE3-4E4E-45FE-B8A1-1FD8B850AFD0}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Worker.cs">
+    <Files>
+      <File FileName="Worker.cs" Line="48" Column="18" />
+      <File FileName="../BancoNovidadeInfrastructure/Persistence/Repositories/DepositInMemory.cs" Line="24" Column="1" />
+      <File FileName="Program.cs" Line="8" Column="30" />
+      <File FileName="../BancoNovidadeAPI/Program.cs" Line="27" Column="1" />
+      <File FileName="../BancoNovidadeCore/Domain/Deposit.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BancoNovidadeWorker" expanded="True">
+            <Node name="BancoNovidadeAPI" expanded="True" />
+            <Node name="BancoNovidadeCore" expanded="True">
+              <Node name="Domain" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="BancoNovidadeInfrastructure" expanded="True">
+              <Node name="Persistence" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BancoNovidadeWorker" expanded="True">
+              <Node name="Worker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BancoNovidadeWorker PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
